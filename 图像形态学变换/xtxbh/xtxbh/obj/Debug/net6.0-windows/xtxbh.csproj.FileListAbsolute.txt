@@ -1,0 +1,17 @@
+F:\vswork\xtxbh\xtxbh\bin\Debug\net6.0-windows\xtxbh.exe
+F:\vswork\xtxbh\xtxbh\bin\Debug\net6.0-windows\xtxbh.deps.json
+F:\vswork\xtxbh\xtxbh\bin\Debug\net6.0-windows\xtxbh.runtimeconfig.json
+F:\vswork\xtxbh\xtxbh\bin\Debug\net6.0-windows\xtxbh.dll
+F:\vswork\xtxbh\xtxbh\bin\Debug\net6.0-windows\xtxbh.pdb
+F:\vswork\xtxbh\xtxbh\obj\Debug\net6.0-windows\xtxbh.csproj.AssemblyReference.cache
+F:\vswork\xtxbh\xtxbh\obj\Debug\net6.0-windows\xtxbh.Form1.resources
+F:\vswork\xtxbh\xtxbh\obj\Debug\net6.0-windows\xtxbh.csproj.GenerateResource.cache
+F:\vswork\xtxbh\xtxbh\obj\Debug\net6.0-windows\xtxbh.GeneratedMSBuildEditorConfig.editorconfig
+F:\vswork\xtxbh\xtxbh\obj\Debug\net6.0-windows\xtxbh.AssemblyInfoInputs.cache
+F:\vswork\xtxbh\xtxbh\obj\Debug\net6.0-windows\xtxbh.AssemblyInfo.cs
+F:\vswork\xtxbh\xtxbh\obj\Debug\net6.0-windows\xtxbh.csproj.CoreCompileInputs.cache
+F:\vswork\xtxbh\xtxbh\obj\Debug\net6.0-windows\xtxbh.dll
+F:\vswork\xtxbh\xtxbh\obj\Debug\net6.0-windows\refint\xtxbh.dll
+F:\vswork\xtxbh\xtxbh\obj\Debug\net6.0-windows\xtxbh.pdb
+F:\vswork\xtxbh\xtxbh\obj\Debug\net6.0-windows\xtxbh.genruntimeconfig.cache
+F:\vswork\xtxbh\xtxbh\obj\Debug\net6.0-windows\ref\xtxbh.dll
