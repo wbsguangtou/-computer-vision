@@ -1,0 +1,17 @@
+F:\vswork\txqz\txqz\bin\Debug\net6.0-windows\txqz.exe
+F:\vswork\txqz\txqz\bin\Debug\net6.0-windows\txqz.deps.json
+F:\vswork\txqz\txqz\bin\Debug\net6.0-windows\txqz.runtimeconfig.json
+F:\vswork\txqz\txqz\bin\Debug\net6.0-windows\txqz.dll
+F:\vswork\txqz\txqz\bin\Debug\net6.0-windows\txqz.pdb
+F:\vswork\txqz\txqz\obj\Debug\net6.0-windows\txqz.csproj.AssemblyReference.cache
+F:\vswork\txqz\txqz\obj\Debug\net6.0-windows\txqz.Form1.resources
+F:\vswork\txqz\txqz\obj\Debug\net6.0-windows\txqz.csproj.GenerateResource.cache
+F:\vswork\txqz\txqz\obj\Debug\net6.0-windows\txqz.GeneratedMSBuildEditorConfig.editorconfig
+F:\vswork\txqz\txqz\obj\Debug\net6.0-windows\txqz.AssemblyInfoInputs.cache
+F:\vswork\txqz\txqz\obj\Debug\net6.0-windows\txqz.AssemblyInfo.cs
+F:\vswork\txqz\txqz\obj\Debug\net6.0-windows\txqz.csproj.CoreCompileInputs.cache
+F:\vswork\txqz\txqz\obj\Debug\net6.0-windows\txqz.dll
+F:\vswork\txqz\txqz\obj\Debug\net6.0-windows\refint\txqz.dll
+F:\vswork\txqz\txqz\obj\Debug\net6.0-windows\txqz.pdb
+F:\vswork\txqz\txqz\obj\Debug\net6.0-windows\txqz.genruntimeconfig.cache
+F:\vswork\txqz\txqz\obj\Debug\net6.0-windows\ref\txqz.dll
