@@ -1,0 +1,17 @@
+F:\vswork\wcs\wcs\bin\Debug\net6.0-windows\wcs.exe
+F:\vswork\wcs\wcs\bin\Debug\net6.0-windows\wcs.deps.json
+F:\vswork\wcs\wcs\bin\Debug\net6.0-windows\wcs.runtimeconfig.json
+F:\vswork\wcs\wcs\bin\Debug\net6.0-windows\wcs.dll
+F:\vswork\wcs\wcs\bin\Debug\net6.0-windows\wcs.pdb
+F:\vswork\wcs\wcs\obj\Debug\net6.0-windows\wcs.csproj.AssemblyReference.cache
+F:\vswork\wcs\wcs\obj\Debug\net6.0-windows\wcs.Form1.resources
+F:\vswork\wcs\wcs\obj\Debug\net6.0-windows\wcs.csproj.GenerateResource.cache
+F:\vswork\wcs\wcs\obj\Debug\net6.0-windows\wcs.GeneratedMSBuildEditorConfig.editorconfig
+F:\vswork\wcs\wcs\obj\Debug\net6.0-windows\wcs.AssemblyInfoInputs.cache
+F:\vswork\wcs\wcs\obj\Debug\net6.0-windows\wcs.AssemblyInfo.cs
+F:\vswork\wcs\wcs\obj\Debug\net6.0-windows\wcs.csproj.CoreCompileInputs.cache
+F:\vswork\wcs\wcs\obj\Debug\net6.0-windows\wcs.dll
+F:\vswork\wcs\wcs\obj\Debug\net6.0-windows\refint\wcs.dll
+F:\vswork\wcs\wcs\obj\Debug\net6.0-windows\wcs.pdb
+F:\vswork\wcs\wcs\obj\Debug\net6.0-windows\wcs.genruntimeconfig.cache
+F:\vswork\wcs\wcs\obj\Debug\net6.0-windows\ref\wcs.dll
